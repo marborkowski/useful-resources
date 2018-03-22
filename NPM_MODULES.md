@@ -4,3 +4,4 @@
 2. [http-errors](https://github.com/jshttp/http-errors) - create HTTP errors for Express, Koa, Connect, etc. with ease.
 3. [node-config](https://github.com/lorenwest/node-config) - organizes hierarchical configurations for your app deployments.
 4. [statuses](https://github.com/jshttp/statuses) - HTTP status utility for node.
+5. [standard](https://github.com/standard/standard) - JavaScript style guide, linter, and formatter. No decisions to make. No .eslintrc, .jshintrc, or .jscsrc files to manage. It just works.
