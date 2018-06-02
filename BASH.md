@@ -7,7 +7,7 @@
 $ cat * > merged-file
 ```
 
-### Share file
+### Easy file sharing from the command line
 ```
 zip -r directory.zip ./directory \
 curl --upload-file ./directory.zip https://transfer.sh/directory.zip
