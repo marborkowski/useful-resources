@@ -6,6 +6,7 @@
 
  1. [ngrok](https://ngrok.com) - exposes local servers behind NATs and firewalls to the public internet over secure tunnels [free tier available]
  2. [Bash Playground - test your bash scripts](https://www.tutorialspoint.com/execute_bash_online.php)
+ 3. [Easy file sharing from the command line](https://transfer.sh/)
 
 ## Database Management
 1. [Robo 3T](https://robomongo.org/) - free lightweight GUI for MongoDB enthusiasts [cross-platform]
