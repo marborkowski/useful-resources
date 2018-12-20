@@ -30,3 +30,6 @@
 ## Node.js
 1. [PM2](http://pm2.keymetrics.io/) - advanced Node.js process manager
 2. [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - find out which of your dependencies is slowing you down
+
+## Graphic tools
+1. [Remove.BG](https://www.remove.bg/) - remove image background automatically!
