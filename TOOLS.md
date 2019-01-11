@@ -20,6 +20,7 @@
 
  1. [snyk.io](https://snyk.io) - Continuously find & fix vulnerabilities in your dependencies [free tier available]
  2. [Burp Suite Scanner](https://portswigger.net/burp) - graphical tool for testing Web application security
+ 3. [MASSCAN](https://github.com/robertdavidgraham/masscan) - mass IP port scanner
 
 
 ## Development
