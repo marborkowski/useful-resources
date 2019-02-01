@@ -17,3 +17,7 @@
 13. [progress](https://github.com/react-component/progress) - different ways to visualize progress
 14. [dropzone](https://github.com/react-component/dropzone) - dropzone
 15. [form-validation](https://github.com/react-component/form-validation) - form validation
+16. [spider](https://github.com/react-component/spider) - tree diagrams
+17. [scroll-anim](https://github.com/react-component/scroll-anim) - scroll animation
+18. [cropping](https://github.com/react-component/cropping) - image cropper
+
