@@ -35,3 +35,6 @@
 
 ## Graphic tools
 1. [Remove.BG](https://www.remove.bg/) - remove image background automatically!
+
+## Media
+1. **Convert movie to WEBM format** - ffmpeg -i input.mp4 -c:v libvpx-vp9 -crf 30 -b:v 0 -b:a 128k -c:a libopus output.webm
