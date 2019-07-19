@@ -7,3 +7,4 @@
 5. [standard](https://github.com/standard/standard) - JavaScript style guide, linter, and formatter. No decisions to make. No .eslintrc, .jshintrc, or .jscsrc files to manage. It just works.
 6. [aws-serverless-express](https://github.com/awslabs/aws-serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway. 
 7. [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+8. [Cypress](https://www.cypress.io/) - JavaScript End-to-End Testing framework.
