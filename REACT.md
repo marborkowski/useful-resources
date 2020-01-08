@@ -1,5 +1,5 @@
 
-# React Components
+# React
 
 ## GUI (2020)
 1. [react-hook-form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
