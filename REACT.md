@@ -3,6 +3,7 @@
 
 ## GUI (2020)
 1. [react-hook-form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
+2. [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks.
 
 ## GUI (2019)
 1. [react-ace](https://github.com/securingsincity/react-ace) - code editor with syntax highlighting function
