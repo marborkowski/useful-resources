@@ -1,7 +1,10 @@
 
 # React Components
 
-## GUI
+## GUI (2020)
+1. [react-hook-form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
+
+## GUI (2019)
 1. [react-ace](https://github.com/securingsincity/react-ace) - code editor with syntax highlighting function
 2. [tween-one](https://github.com/react-component/tween-one) - animate one react element
 3. [rc-queue-anim](https://github.com/react-component/queue-anim) - animate react components in queue
