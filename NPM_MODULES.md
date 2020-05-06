@@ -2,6 +2,7 @@
 
 ## 2020
 1. [RamdaJS](https://ramdajs.com/docs/)
+2. [Resemble.js](https://github.com/rsmbl/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
 ## 2019
 
